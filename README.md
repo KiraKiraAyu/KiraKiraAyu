@@ -13,7 +13,7 @@
 
 <br>
 
-I am a developer who believes that software should not only run flawlessly but look stunning. My expertise spans web development and cross-platform apps, heavily driven by a love for visual arts and interactive design.
+I am a developer who blends web and cross-platform development with a passion for visual arts and interactive design.
 
 Contacts: [lysastriel@gmail.com](mailto:lysastriel@gmail.com)<br>
 Website: [www.lysastriel.com](www.lysastriel.com) / [www.kkayu.com](www.kkayu.com)
