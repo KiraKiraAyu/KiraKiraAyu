@@ -16,4 +16,4 @@
 I am a developer who blends web and cross-platform development with a passion for visual arts and interactive design.
 
 Contacts: [lysastriel@gmail.com](mailto:lysastriel@gmail.com)<br>
-Website: [www.lysastriel.com](www.lysastriel.com) / [www.kkayu.com](www.kkayu.com)
+Website: [www.lysastriel.com](https://www.lysastriel.com) / [www.kkayu.com](https://www.kkayu.com)
