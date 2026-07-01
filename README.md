@@ -3,11 +3,12 @@
   <br>
   <span>
     <img src="https://cdn.simpleicons.org/vue.js/D0C3E8" width="40" height="40" alt="Vue" />
-    <img src="https://cdn.simpleicons.org/typescript/D0C3E8" width="40" height="40" alt="TS" />
+    <img src="https://cdn.simpleicons.org/typescript/D0C3E8" width="40" height="40" alt="TypeScript" />
     <img src="https://cdn.simpleicons.org/rust/D0C3E8" width="40" height="40" alt="Rust" />
     <img src="https://cdn.simpleicons.org/go/D0C3E8" width="40" height="40" alt="Go" />
     <img src="https://cdn.simpleicons.org/flutter/D0C3E8" width="40" height="40" alt="Flutter" />
-    <img src="https://cdn.simpleicons.org/webgpu/D0C3E8" width="40" height="40" alt="Flutter" />
+    <img src="https://cdn.simpleicons.org/webgpu/D0C3E8" width="40" height="40" alt="WebGPU" />
+    <img src="https://cdn.simpleicons.org/osu/D0C3E8" width="40" height="40" alt="osu" />
   </span>
 </div>
 
