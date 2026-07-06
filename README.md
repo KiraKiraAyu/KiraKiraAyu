@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Lysastriel <img src="https://visitor-badge.laobi.icu/badge?page_id=KiraKiraAyu" alt="Visitors" vertical-align="middle" /></h1>
+  <h1>Hi, I'm Lysastriel, also known as KiraKiraAyu <img src="https://visitor-badge.laobi.icu/badge?page_id=KiraKiraAyu" alt="Visitors" vertical-align="middle" /></h1>
   <br>
   <span>
     <img src="https://cdn.simpleicons.org/vue.js/D0C3E8" width="40" height="40" alt="Vue" />
