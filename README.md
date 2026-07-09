@@ -18,3 +18,4 @@ I am a developer who blends web and cross-platform development with a passion fo
 
 Contacts: [lysastriel@gmail.com](mailto:lysastriel@gmail.com)<br>
 Website: [www.lysastriel.com](https://www.lysastriel.com) / [www.kkayu.com](https://www.kkayu.com)
+osu: [osu.ppy.sh/users/28027195](https://osu.ppy.sh/users/28027195)
