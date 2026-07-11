@@ -1,5 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Lysastriel, also known as KiraKiraAyu <img src="https://visitor-badge.laobi.icu/badge?page_id=KiraKiraAyu" alt="Visitors" vertical-align="middle" /></h1>
+  <p>🎓 Network Engineering @ Chengdu University of Information Technology</p>
   <br>
   <span>
     <img src="https://cdn.simpleicons.org/vue.js/D0C3E8" width="40" height="40" alt="Vue" />
